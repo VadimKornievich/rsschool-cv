@@ -32,3 +32,7 @@ Personal qualities:
 
 6. adequate response to mistakesadequate error perception
 ***
+
+Skill language:
+===
+English level - A2
