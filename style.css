@@ -1,0 +1,83 @@
+.top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: cadetblue;
+  padding: 2px;
+}
+.image {
+  margin-right: 1em;
+}
+h1 {
+  background: #b9d613;
+  font-family: cursive;
+}
+.my contacts {
+  flex: 1;
+}
+h2 {
+  padding: 20px;
+  font-size: 25px;
+  text-decoration: underline;
+}
+section {
+  background-color: #09df98;
+  padding: 20px;
+}
+h2 {
+  background-color: rgb(7, 7, 177);
+  text-decoration: underline;
+}
+div {
+  display: block;
+  background-color: #0fb0e0;
+  border: 1px solid #333;
+  font-size: large;
+  font-weight: 600;
+}
+h2 {
+  font-family: serif; 
+}
+h2 {
+  background-color: cadetblue;
+  font-size: 30px;
+  padding: 20 px;
+  margin: 0;
+  text-align-last: center;
+}
+. language {
+  display: block;
+  }
+h2 {
+   text-decoration: underline; 
+   background-color: rgb(30, 168, 210);
+}
+p {
+  color: rgb(65, 9, 110);
+  font-size: 18px;
+  font-weight: 600;
+  font-family: monospace;
+  text-align: center;
+  }
+. project {
+  display: block;
+  background-color: #ad09df;
+  }
+h2 {
+  text-align: center;
+  padding-right: 120px;
+  color: #d7df09;
+  font-weight: 800;
+  }
+  . foot {
+  display: block;
+  padding: 2px;
+}
+. year {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: monospace;
+}
+a {
+  padding: 30px;
+}
