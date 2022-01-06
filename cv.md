@@ -36,3 +36,11 @@ Personal qualities:
 Skill language:
 ===
 English level - A2
+Russian level - С2
+Belarussian level - C1
+
+===
+Projects: Will be soon!
+===
+logo 2021 by VadKor Link
+===
