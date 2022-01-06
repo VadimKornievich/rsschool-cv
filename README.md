@@ -1,3 +1,3 @@
-https://github.com/VadimKornievich/rsschool-cv/blob/rsschool-cv-html/cv.md
+https://vadimkornievich.github.io/rsschool-cv/cv
 
 https://vadimkornievich.github.io/rsschool-cv/
